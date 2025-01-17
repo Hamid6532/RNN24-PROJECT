@@ -5,7 +5,7 @@ function App() {
  
   return (
     <>
-      <h1>Hello Tutor Finder</h1>
+      <h1>Welcome Tutor Finder</h1>
     </>
   )
 }
